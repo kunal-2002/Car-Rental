@@ -1,0 +1,35 @@
+body, h1, p, ul, li{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Arial', sans-serif;
+    background-image: url('../img/car_with_driver.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+}
+
+.content {
+    margin: 20px;
+    position: relative;
+    top: 200px;
+}
+
+h1{
+    color: #2A0944;
+    font-size: xx-large;
+    font-weight: 900;
+}
+
+.content p{
+    color: #3FA796;
+    font-size: x-large;
+    font-weight: 900;
+}
+
+
+
+
+
